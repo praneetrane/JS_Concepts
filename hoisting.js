@@ -40,3 +40,5 @@ var fun = function () {
 };
 
 fun();
+
+//----Note: Only variables with var and normal JS functions (not function expression) get hoisted.
